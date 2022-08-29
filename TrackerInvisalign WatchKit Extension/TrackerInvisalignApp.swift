@@ -12,7 +12,9 @@ struct TrackerInvisalignApp: App {
     @SceneBuilder var body: some Scene {
         WindowGroup {
             NavigationView {
-                ContentView()
+                //TimerView()
+                //ContentView()
+                StopWatchView()
             }
         }
 
